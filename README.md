@@ -6,10 +6,10 @@ To use this project you need installed NodeJsin your machine.
 
 After clone this project
 
-  npm install
+    npm install
 
 To install dependeces 
 
-  npm start
+    npm start
   
 To run 
